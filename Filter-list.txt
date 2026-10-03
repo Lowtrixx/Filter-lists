@@ -1,5 +1,11 @@
-[Adblock Plus 2.0]
-! Title: My TLD Blocklist
-! Description: Blocks all .in domains
-
-||in^
+*$document
+@@||simpcity.cr^$document
+@@||xmegadrive.com^$document
+@@||filester.gg^$document
+@@||rule34.xxx^$document
+@@||turbo.cr^$document
+@@||goonbox.cr^$document
+@@||gofile.io^$document
+@@||onlyfans.com^$document
+@@||pixeldrain.com^$document
+@@||bunkr.*^$document
