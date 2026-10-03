@@ -2,4 +2,4 @@
 ! Title: My TLD Blocklist
 ! Description: Blocks all .in domains
 
-||*.in^
+||in^
